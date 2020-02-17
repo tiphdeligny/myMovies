@@ -1,0 +1,3 @@
+<?php
+	$tuple=$CurseurFilm->fetch()
+?>
